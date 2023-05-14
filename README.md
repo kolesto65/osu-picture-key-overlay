@@ -13,7 +13,7 @@ How to use:
 To change pictures, simply replace them in "images" folder with new ones, then edit your browser source in OBS and click "Refresh cache of current page".
 
 And now about settings.json:
-"KeyA" and "KeyB" are keys you use to play osu (Z and X by default)
-"ext" is extension of your images (gif by default)
-"singletap" if you set this to true, then image will be changing no mater what key is pressed out of two (false by default)
-"port" is just port that will be used by web server
+1. "KeyA" and "KeyB" are keys you use to play osu (Z and X by default)
+2. "ext" is extension of your images (gif by default)
+3. "singletap" if you set this to true, then image will be changing no mater what key is pressed out of two (false by default)
+4. "port" is just port that will be used by web server
