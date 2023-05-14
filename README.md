@@ -1,7 +1,7 @@
 # osu-picture-key-overlay
-Simple overlay with pictures to stream osu!
+Simple web overlay with pictures to stream osu!
 Changes picture everytime Z or X is pressed.
-Supports gif, png, jpg and basically every browser-friendly image format (trasparency work too).
+Supports gif, png, jpg and basically every browser-friendly image format (trasparency work too). Works with OBS or any other streaming software that supports browser sources.
 Demonstation: https://youtu.be/Wsv-RTdVyQI
 
 How to use:
