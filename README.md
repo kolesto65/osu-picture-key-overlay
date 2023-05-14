@@ -2,6 +2,7 @@
 Simple overlay with pictures to stream osu!
 Changes picture everytime Z or X is pressed.
 Supports gif, png, jpg and basically every browser-friendly image format (trasparency work too).
+Demonstation: https://youtu.be/Wsv-RTdVyQI
 
 How to use:
 1. [Download](https://github.com/kolesto65/osu-picture-key-overlay/releases) and unpack latest zip everywhere you want.
@@ -11,4 +12,8 @@ How to use:
 5. In case it works, just add it as browser source in OBS, use link provided by app (default: http://localhost:3777)
 To change pictures, simply replace them in "images" folder with new ones, then edit your browser source in OBS and click "Refresh cache of current page".
 
-Demonstation: https://youtu.be/Wsv-RTdVyQI
+And now about settings.json:
+"KeyA" and "KeyB" are keys you use to play osu (Z and X by default)
+"ext" is extension of your images (gif by default)
+"singletap" if you set this to true, then image will be changing no mater what key is pressed out of two (false by default)
+"port" is just port that will be used by web server
