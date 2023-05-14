@@ -5,7 +5,7 @@ Supports gif, png, jpg and basically every browser-friendly image format (traspa
 
 How to use:
 1. [Download](https://github.com/kolesto65/osu-picture-key-overlay/releases) and unpack latest zip everywhere you want.
-2. Add your prefered pictures to "images" folder.
+2. Add your prefered pictures to "assets/images" folder.
 3. Start opko.exe
 4. It will probably won't start because Im'a professional shitcoder, so create an issue on github, I'll try to help you make it work.
 5. In case it works, just add it as browser source in OBS, use link provided by app (default: http://localhost:3777)
