@@ -4,7 +4,7 @@ Changes picture everytime Z or X is pressed.
 Supports gif, png, jpg and basically every browser-friendly image format (trasparency work too).
 
 How to use:
-1. Unpack zip everywhere you want.
+1. [Download](https://github.com/kolesto65/osu-picture-key-overlay/releases) and unpack latest zip everywhere you want.
 2. Add your prefered pictures to "images" folder.
 3. Start opko.exe
 4. It will probably won't start because Im'a professional shitcoder, so create an issue on github, I'll try to help you make it work
