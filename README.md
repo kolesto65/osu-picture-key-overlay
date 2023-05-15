@@ -16,4 +16,4 @@ And now about settings.json:
 1. "KeyA" and "KeyB" are keys you use to play osu (Z and X by default)
 2. "ext" is extension of your images (gif by default)
 3. "singletap" if you set this to true, then image will be changing no mater what key is pressed out of two (false by default)
-4. "port" is just port that will be used by web server
+4. "port" is just a port that will be used by web server
