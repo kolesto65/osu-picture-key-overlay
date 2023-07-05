@@ -11,6 +11,7 @@ How to use:
 4. It will probably won't start because Im'a professional shitcoder, so create an issue on github, I'll try to help you make it work.
 5. In case it works, just add it as browser source in OBS, use link provided by app (default: http://localhost:3777)
 To change pictures, simply replace them in "images" folder with new ones, then edit your browser source in OBS and click "Refresh cache of current page".
+VERY IMPORTANT!!!! Don't launch two executables of OPKO at once, it will make your mouse cursor lag.
 
 And now about settings.json:
 1. "KeyA" and "KeyB" are keys you use to play osu (Z and X by default)
