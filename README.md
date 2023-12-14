@@ -18,3 +18,5 @@ And now about settings.json:
 2. "ext" is extension of your images (gif by default)
 3. "singletap" if you set this to true, then image will be changing no mater what key is pressed out of two (false by default)
 4. "port" is just a port that will be used by web server
+
+P.S. Source code is not provided here since I'm ashamed of my coding skills, but VirusTotal should not ring the alarm.
